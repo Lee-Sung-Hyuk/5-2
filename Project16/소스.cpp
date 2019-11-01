@@ -10,6 +10,6 @@ int main()
 
 	printf("입력하신 무게의 파운드는: %.3lf", x / pound);
 
-	return 0;
+	
 
 }
